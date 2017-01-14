@@ -90,3 +90,5 @@ ENV/
 
 #Mac
 .DS_Store
+
+archive/
