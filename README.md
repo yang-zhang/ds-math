@@ -5,4 +5,4 @@ Codes to learn, test, and demonstrate the math of data science (probability, lin
 - [linear_algebra](https://github.com/yang-zhang/math-data-science/tree/master/linear_algebra): Examples of linear algebra concepts and functions
 - [mcmc](https://github.com/yang-zhang/math-data-science/tree/master/mcmc): Demo of Markov chain Monte Carlo
 - [optimization](https://github.com/yang-zhang/math-data-science/tree/master/optimization): Examples of optimization algorithms
--[Correlating Data (Python and R)](https://github.com/yang-zhang/math-data-science/blob/master/Correlating%20Data%20(Python%20and%20R).ipynb): Several methods to measure correlations between data (numerical and categorical), with code in both Python and R for comparison.
+- [Correlating Data (Python and R)](https://github.com/yang-zhang/math-data-science/blob/master/Correlating%20Data%20(Python%20and%20R).ipynb): Several methods to measure correlations between data (numerical and categorical), with code in both Python and R for comparison.
