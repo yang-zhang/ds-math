@@ -1,4 +1,5 @@
 Tutorials, demos, and experiments on math problems in Data Science (probability, linear algebra, machine Learning, statistics, optimization, etc.)
+-[Chain Rule of Derivatives](https://github.com/yang-zhang/ds-math/blob/master/chain_rule.ipynb): Examples of chain rule of derivatives for high dimensional functions.
 - [bishop_ml](https://github.com/yang-zhang/math-data-science/tree/master/bishop_ml): Notes and code for [Pattern Recognition and Machine Learning by Bishop, Christopher](http://www.springer.com/us/book/9780387310732)
 - [kevin_murphy_ml](https://github.com/yang-zhang/math-data-science/tree/master/kevin_murphy_ml): Notes and code for [Machine Learning: A Probabilistic Perspective By Kevin P. Murphy](https://mitpress.mit.edu/books/machine-learning-0)
 - [linear_algebra](https://github.com/yang-zhang/math-data-science/tree/master/linear_algebra): Examples of linear algebra concepts and functions
